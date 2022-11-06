@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hola soy Diego 👋
+Ire actualizando el reedme 
+![wip](https://user-images.githubusercontent.com/14823824/200199899-488d3c0f-0a41-41e6-b2fe-8d17601dc626.png)
 
 <!--
 **DiegoArce15/DiegoArce15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
